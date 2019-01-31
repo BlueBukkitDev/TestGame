@@ -1,0 +1,5 @@
+package dev.blue.rotu;
+
+public enum GameStateType {
+	CHAT_STATE, LOGIN_STATE, MAIN_MENU_STATE, SERVER_MENU_STATE, CHARACTER_CREATION_STATE, GAME_STATE;
+}
